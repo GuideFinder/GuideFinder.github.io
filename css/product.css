@@ -1,3 +1,4 @@
+
 .container {
   max-width: 960px;
 }
@@ -7,12 +8,12 @@
  */
 
 .site-header {
-  background-color: rgba(0, 0, 0, .85);
+  background-color: green;
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
 }
 .site-header a {
-  color: #999;
+  color: black;
   transition: ease-in-out color .15s;
 }
 .site-header a:hover {
@@ -55,6 +56,10 @@
   background-color: #e5e5e5;
 }
 
+.bg-green{
+    background-color: #42f448;
+    color: black
+}
 
 /*
  * Extra utilities
