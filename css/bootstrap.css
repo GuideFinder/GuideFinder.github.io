@@ -6098,6 +6098,10 @@ button.bg-secondary:focus {
   background-color: #28a745 !important;
 }
 
+.bg-travelguide {
+  background-color: rgb(79, 203, 139) !important;
+}
+
 a.bg-success:hover, a.bg-success:focus,
 button.bg-success:hover,
 button.bg-success:focus {
